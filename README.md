@@ -3,7 +3,7 @@
 <!-- LOGO / BANNER -->
 <img src="public/favicon.svg" alt="NexQR Logo" width="80" height="80" />
 
-# ⬛ NexQR
+# NexQR
 
 ### Modern QR Code Generator — Fast, Free & Fully Customizable
 
@@ -17,11 +17,6 @@
 <br/>
 
 **[🚀 Live Demo](https://nexqr-generator.windsurf.build/) · [🐛 Report Bug](https://github.com/JayeshJadhav28/NexQr/issues) · [✨ Request Feature](https://github.com/JayeshJadhav28/NexQr/issues)**
-
-<br/>
-
-<!-- DEMO GIF — Replace with actual screenshot/GIF -->
-<img src="https://placehold.co/900x500/0f172a/38bdf8?text=NexQR+Demo+Screenshot" alt="NexQR Demo" width="90%" style="border-radius: 12px;" />
 
 </div>
 
